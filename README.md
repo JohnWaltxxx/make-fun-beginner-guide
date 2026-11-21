@@ -8,6 +8,10 @@ If you have an AI coding agent and a free evening, you can enter a paid software
 competition tonight. This guide walks you through your first one, from signing up
 to claiming a reward, with nothing skipped and nothing assumed.
 
+It is written for the "Bring the humans again" bounty, where your rank is the
+number of real people who sign up through your referral link — so the link
+above is not decoration, it is how you score.
+
 > **New to make.fun? Join with my link:** [https://make.fun/r/994rsqex](https://make.fun/r/994rsqex)
 >
 > My referral code is `994rsqex`.
